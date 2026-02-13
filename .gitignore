@@ -1,0 +1,5 @@
+# Ignore data folders
+data/
+data_cnn_test/
+test/
+test_new/
