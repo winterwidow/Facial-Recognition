@@ -256,16 +256,6 @@ For optimal results in production systems, consider:
 - ❌ 11.5% lower detection rate on average
 - ❌ Struggles with challenging conditions
 
-### Final Recommendation
-
-**For this project:**
-- **Default: HOG** - Best balance for general use cases
-- **Upgrade to CNN** - When accuracy is critical and GPU is available
-
-**The optimal choice depends on your specific requirements:**
-- Prioritize **HOG** for speed, accessibility, and cost-effectiveness
-- Prioritize **CNN** for accuracy, robustness, and critical applications
-
 ---
 
 *Benchmarks conducted on: Intel i7-9700K, 16GB RAM, NVIDIA RTX 3060, Ubuntu 20.04*  
